@@ -1,4 +1,11 @@
 #!/bin/zsh
+
+# Script from ricardrobin:
+# https://github.com/ricardrobin/zsh-output-highlighting
+#
+#(I don't know the license exactly but it has to be open source)
+#
+
 cat sed awk grep() {
   syntax=""
   type highlight > /dev/null 2>&1
